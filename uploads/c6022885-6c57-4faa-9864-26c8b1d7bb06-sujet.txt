@@ -1,9 +1,0 @@
-Sujet 4 : Inetum DX (developers experience).
-
-SUJET 6 : Test & DevOps.
-
-SUJET 7 : Solution BI à base de technologies ML.
-
-SUJET 12 : Conception et implémentation d'un générateur
-des emplois du temps automatique.
-
